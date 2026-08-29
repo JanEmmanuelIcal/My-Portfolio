@@ -1,0 +1,38 @@
+JAN EMMANUEL M. ICAL
+Aspiring IT Professional / Web Developer
+Location: Sorsogon, Philippines
+Email: icaljanemmanuel@gmail.com
+Phone: 09305307631
+GitHub: https://github.com/JanEmmanuelIcal
+
+PROFILE
+I am an aspiring web developer focused on building clean, practical, and user-friendly digital experiences. I enjoy working with HTML, CSS, JavaScript, web design principles, and modern front-end workflows to deliver effective solutions for real-world problems.
+
+CORE SKILLS
+- HTML5
+- CSS3
+- JavaScript
+- Responsive design
+- Frontend development
+- UI/UX-minded design
+- PHP basics
+- MySQL fundamentals
+- Git and GitHub
+- VS Code
+
+EDUCATION
+Bachelor of Science in Information Technology
+Ongoing academic development with focus on web technologies, software fundamentals, and practical project building.
+
+PROJECTS
+- Inventory Management System: dashboard for stock tracking, reporting, and management.
+- Task Planner Dashboard: interactive task and priority management interface.
+- Company Portfolio Website: professional service-focused landing page.
+
+CERTIFICATIONS
+- Web Development Fundamentals
+- Database Management with MySQL
+- PHP & Dynamic Websites
+
+OBJECTIVE
+To contribute as a motivated and adaptable developer in an internship or professional environment where I can learn, build valuable user-facing solutions, and continue growing in web development and IT.
