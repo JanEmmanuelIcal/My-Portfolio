@@ -392,15 +392,20 @@ html[data-theme="dark"] .toggle-thumb {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 124px;
-    height: 124px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
+    overflow: hidden;
     background: linear-gradient(135deg, var(--primary), var(--accent));
-    color: #fff;
-    font-weight: 800;
-    font-size: 2.1rem;
-    letter-spacing: -0.05em;
+    border: 4px solid rgba(255,255,255,0.7);
     box-shadow: 0 26px 38px rgba(49, 87, 255, 0.26);
+}
+
+.avatar-circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
 
 .profile-meta {
@@ -721,8 +726,32 @@ html[data-theme="dark"] .toggle-thumb {
     background: var(--panel);
     border: 1px solid var(--border);
     border-radius: var(--card-radius);
-    padding: 1.5rem;
+    overflow: hidden;
     box-shadow: 0 16px 40px var(--shadow);
+}
+
+.cert-image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel-alt);
+}
+
+.cert-image--fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.06em;
+    color: var(--primary);
+    background: linear-gradient(135deg, rgba(49, 87, 255, 0.12), rgba(45, 212, 191, 0.12));
+}
+
+.cert-body {
+    padding: 1.5rem;
 }
 
 .cert-badge {
